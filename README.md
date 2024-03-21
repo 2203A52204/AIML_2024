@@ -5,3 +5,4 @@ week2-https://colab.research.google.com/drive/1wL2YLI5DMQcMgWnX0KsO98wLjScjKNgW?
 week4-https://colab.research.google.com/drive/1ArJTByfWfhrN3mD58v6ZBD4iqXSq9hv8?usp=sharing
 aiml_linear_regression:https://colab.research.google.com/drive/16NBFD7u66u9wFKJhhuhRa6tWVRCOtpi5?usp=sharing
 aiml_logistic_regression:https://colab.research.google.com/drive/1XRHt1eLtp4V0SdBhgMcvm1KDrik66NzJ?usp=sharing
+Logistic_regression_2:https://colab.research.google.com/drive/1IfEBNL9dN6LLP0VcFDQIjM2d6FKo1oaF?usp=sharing
