@@ -7,3 +7,4 @@ aiml_linear_regression:https://colab.research.google.com/drive/16NBFD7u66u9wFKJh
 aiml_logistic_regression:https://colab.research.google.com/drive/1XRHt1eLtp4V0SdBhgMcvm1KDrik66NzJ?usp=sharing
 Logistic_regression_2:https://colab.research.google.com/drive/1IfEBNL9dN6LLP0VcFDQIjM2d6FKo1oaF?usp=sharing
 knn,decision_tree:https://colab.research.google.com/drive/1kb86FyCf9zOr_y1RmVyfsbSqOYlQZU4r?usp=sharing
+svm-https://colab.research.google.com/drive/1y_synMoouNIqEFKAE2SPImwk9LIEW_Ke?usp=sharing
